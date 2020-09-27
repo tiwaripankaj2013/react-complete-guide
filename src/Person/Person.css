@@ -1,8 +1,10 @@
 .person{
     border:1px solid #eee;
     box-shadow: 2px 3px 4px #ccc;
+    margin:10px auto;
     margin-bottom: 15px;
     max-width: 500px;
     padding: 15px;
     border-radius: 4px;
+
 }

@@ -2,3 +2,9 @@
   text-align: center;
   margin:20% auto;
 }
+.red{
+  color: rgb(218, 10, 10);
+}
+.bold{
+  font-weight: bold;
+}
